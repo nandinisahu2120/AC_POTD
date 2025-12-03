@@ -19,4 +19,4 @@ public class A_Theatre_Square{
         System.out.println(c3);  //printing number of tiles
     }
 }
-//time complexity=O(n)
+//time complexity=O(1)
